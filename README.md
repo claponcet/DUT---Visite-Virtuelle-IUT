@@ -17,3 +17,8 @@ Cette application pourra être utilisée en substitution des portes ouvertes et 
 ====================================
 
 Notre but est donc de créer deux outils ergonomiques, un pour la visite de l’IUT et l’autre pour un public plus large, qui offrent des solutions concrètes de visite à distance tout en offrant une expérience immersive et utilisable sur trois plateformes : casque de réalité virtuelle, navigateur sur ordinateur et sur téléphone et casque de RV pour téléphone. Les visualisations sur téléphones utilisent le gyroscope intégré de l’appareil pour reproduire le déplacement physique dans le panorama.
+
+====================================
+
+Pour démarrer la visite : **Panorama > index.html**
+A ouvrir avec un serveur web et une conenxion internet.
